@@ -1,4 +1,4 @@
-# Olist Supply Chain & Sales Performance Dashboard
+# E-Commerce Supply Chain & Operations Analytics Dashboard
 
 End-to-end Supply Chain Analytics project using **Python** and **Power BI** on the Brazilian E-Commerce (Olist) dataset.
 
