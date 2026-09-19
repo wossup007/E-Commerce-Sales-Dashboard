@@ -4,7 +4,7 @@ End-to-end Supply Chain Analytics project using **Python** and **Power BI** on t
 
 ## Project Overview
 
-This project analyzes 100K+ real e-commerce orders to evaluate sales performance and delivery efficiency. The goal is to provide actionable insights on revenue trends, delivery lead time, on-time performance, and product category contribution.
+This project builds an end-to-end supply chain analytics pipeline using Python (for ETL and data preprocessing) and Power BI (for executive dashboard visualization). Processing over 100,000+ e-commerce orders, the system tracks key operational bottlenecks, delivery efficiency, and regional fulfillment dynamics.
 
 ### Key Objectives
 - Clean and prepare raw e-commerce data using Python
