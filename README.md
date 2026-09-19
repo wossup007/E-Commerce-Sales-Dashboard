@@ -41,6 +41,9 @@ This project analyzes 100K+ real e-commerce orders to evaluate sales performance
    - Added Month slicer and dynamic insights
 
 ## Dashboard Pages
+<img width="1340" height="755" alt="Page 1" src="https://github.com/user-attachments/assets/af06e321-b8ca-48f5-bfb4-121cbcb25a36" />
+<img width="1345" height="757" alt="Page 2" src="https://github.com/user-attachments/assets/ab462013-f291-45ef-ae00-9bd24a289626" />
+<img width="1341" height="754" alt="Page 3" src="https://github.com/user-attachments/assets/6108dfa5-303b-41b9-b358-b9e3d2e666ac" />
 
 ### 1. Executive Overview
 - Total Revenue, Total Orders, Avg Lead Time
