@@ -79,5 +79,5 @@ This project analyzes 100K+ real e-commerce orders to evaluate sales performance
 
 
 ---
-
+Dashboard file is available in the repository. Open with Power BI Desktop.
 Feel free to star this repository if you find it useful!# E-Commerce-Sales-Dashboard
