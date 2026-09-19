@@ -77,11 +77,6 @@ This project analyzes 100K+ real e-commerce orders to evaluate sales performance
 2. Open the `.pbix` file in Power BI Desktop
 3. (Optional) Run the Python notebook to reproduce the cleaned dataset
 
-## Author
-
-**Shaiful Islam**  
-BSc in Economics  
-Aspiring Supply Chain / Data Analyst
 
 ---
 
